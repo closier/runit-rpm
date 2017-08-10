@@ -5,7 +5,7 @@ I like [runit](http://smarden.org/runit/). A lot. I also like [Redhat](http://ww
 So, thanks to Scott for the RPMs and thanks to [SuSE](http://www.opensuse.org/) for the original spec/RPMs
 ## For LHCB
 
-I modify the Makefile (admin/runit-2.1.2/src/Makefile) of runit from smarden in order include and compile runsvctrl and runsvstat.I also modify the runit.spec to add runsvctrl and runsvstat for the commands part.
+I modified the Makefile (admin/runit-2.1.2/src/Makefile) of runit from smarden in order include and compile runsvctrl and runsvstat.I also modify the runit.spec to add runsvctrl and runsvstat for the commands part.
 
 ## Building
 
